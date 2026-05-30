@@ -35,3 +35,5 @@ ctest --test-dir build
 ## Кейс-задача № 5
 
 В каталоге `web` находится простая HTML/CSS-страница с информацией об организации.
+В качестве дополнительных вариантов шрифтов для оформления HTML/CSS-страницы рассмотрены: Arial, Helvetica, Segoe UI, Roboto, Open Sans, Verdana. 
+В базовом варианте страницы используется семейство Arial, Helvetica, sans-serif.
